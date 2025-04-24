@@ -1,0 +1,104 @@
+NomeDoProduto,Quantidade,Preço,PreçoAtacado,Setor
+Caneta Azul,150,2.50,1.80,Escritório
+Caderno 200 folhas,80,25.90,18.00,Escritório
+Lápis HB,295,1.20,0.80,Escritório
+Borracha branca,200,1.50,1.00,Escritório
+Grampeador pequeno,50,12.00,9.50,Escritório
+Tesoura escolar,120,8.50,6.00,Escritório
+Cola branca 90g,179,4.50,3.20,Escritório
+Régua 30cm,250,3.00,2.00,Escritório
+Marca-texto amarelo,100,5.50,4.00,Escritório
+Clips metálicos,500,3.50,2.50,Escritório
+Arroz 5kg,200,22.00,18.00,Mercearia
+Feijão carioca 1kg,300,8.50,6.50,Mercearia
+Açúcar refinado 1kg,250,4.50,3.20,Mercearia
+Café em pó 500g,180,12.00,9.00,Mercearia
+Óleo de soja 900ml,150,7.50,5.80,Mercearia
+Farinha de trigo 1kg,220,5.00,3.80,Mercearia
+Sal refinado 1kg,190,3.00,2.00,Mercearia
+Macarrão espaguete 500g,280,4.50,3.00,Mercearia
+Leite UHT 1L,400,4.00,3.20,Mercearia
+Ovos brancos (dúzia),346,10.00,8.00,Mercearia
+Shampoo 300ml,120,15.00,11.00,Higiene
+Condicionador 300ml,110,16.00,12.00,Higiene
+Sabonete líquido 200ml,179,8.50,6.50,Higiene
+Creme dental 90g,200,6.00,4.50,Higiene
+Escova de dentes,150,7.50,5.00,Higiene
+Desodorante roll-on 50ml,130,12.00,9.00,Higiene
+Papel higiênico 30m,90,18.00,14.00,Higiene
+Absorvente noturno 8un,69,15.00,11.50,Higiene
+Fralda P 30un,60,35.00,28.00,Higiene
+Lenço umedecido 48un,85,12.50,9.80,Higiene
+TV LED 50",25,2200.00,1950.00,Eletrônicos
+Smartphone 128GB,40,1800.00,1500.00,Eletrônicos
+Notebook i5 8GB,30,3200.00,2800.00,Eletrônicos
+Fone de ouvido Bluetooth,120,120.00,85.00,Eletrônicos
+Tablet 10",45,900.00,750.00,Eletrônicos
+Caixa de som JBL,75,250.00,200.00,Eletrônicos
+Mouse sem fio,200,60.00,45.00,Eletrônicos
+Teclado mecânico,90,150.00,120.00,Eletrônicos
+HD Externo 1TB,65,300.00,250.00,Eletrônicos
+Webcam Full HD,110,180.00,140.00,Eletrônicos
+Camiseta básica M,300,35.00,25.00,Vestuário
+Calça jeans masculina,150,120.00,90.00,Vestuário
+Vestido floral,180,85.00,65.00,Vestuário
+Tênis esportivo,120,180.00,140.00,Vestuário
+Meia cano alto,400,12.00,8.00,Vestuário
+Cueca boxe,350,20.00,15.00,Vestuário
+Sutiã básico,250,45.00,35.00,Vestuário
+Blusa de frio,100,95.00,75.00,Vestuário
+Shorts jeans,180,65.00,50.00,Vestuário
+Pijama feminino,130,55.00,40.00,Vestuário
+Martelo unha 16oz,80,25.00,18.00,Ferramentas
+Alicate universal,95,30.00,22.00,Ferramentas
+Chave de fenda 6mm,200,12.00,8.50,Ferramentas
+Trena 5m,150,18.00,12.00,Ferramentas
+Serra copo 38mm,60,45.00,35.00,Ferramentas
+Nível 60cm,120,35.00,25.00,Ferramentas
+Parafusadeira 12V,75,220.00,180.00,Ferramentas
+Lixa madeira #120,300,3.50,2.50,Ferramentas
+Furadeira 500W,50,180.00,150.00,Ferramentas
+Luvas de proteção,250,15.00,10.00,Ferramentas
+Vassoura plástica,180,25.00,18.00,Limpeza
+Rodo com cabo,150,30.00,22.00,Limpeza
+Balde 10L,120,18.00,12.00,Limpeza
+Desinfetante 2L,200,12.00,9.00,Limpeza
+Detergente 500ml,400,3.50,2.50,Limpeza
+Esponja multiuso,500,2.50,1.80,Limpeza
+Saco de lixo 50L,300,25.00,18.00,Limpeza
+Amaciante 2L,180,16.00,12.00,Limpeza
+Água sanitária 1L,250,6.00,4.50,Limpeza
+Lustra móveis 500ml,160,14.00,10.00,Limpeza
+Pão de forma 500g,220,10.00,7.50,Padaria
+Pão francês kg,400,12.00,9.00,Padaria
+Bolo chocolate 300g,120,18.00,14.00,Padaria
+Biscoito recheado 130g,280,4.50,3.20,Padaria
+Rosca doce,150,8.00,6.00,Padaria
+Croissant 60g,200,5.00,3.50,Padaria
+Torta de frango,80,22.00,17.00,Padaria
+Pão de queijo 500g,180,16.00,12.00,Padaria
+Baguete,250,7.00,5.00,Padaria
+Sonho 80g,300,6.00,4.50,Padaria
+Cerveja lata 350ml,500,4.50,3.50,Bebidas
+Refrigerante 2L,400,8.00,6.00,Bebidas
+Suco integral 1L,250,10.00,7.50,Bebidas
+Água mineral 500ml,600,3.00,2.00,Bebidas
+Vinho tinto 750ml,120,35.00,28.00,Bebidas
+Whisky 1L,80,120.00,95.00,Bebidas
+Energético 250ml,300,7.00,5.50,Bebidas
+Cachaça 1L,150,25.00,18.00,Bebidas
+Água com gás 1L,180,5.50,4.00,Bebidas
+Chá mate 1L,220,6.00,4.50,Bebidas
+Sabão em pó 1kg,300,12.00,9.00,Limpeza
+Amaciante 1L,250,14.00,10.50,Limpeza
+Desengordurante 500ml,180,15.00,11.00,Limpeza
+Inseticida 300ml,120,18.00,14.00,Limpeza
+Vela aromática,200,12.00,8.50,Casa
+Toalha de mesa,150,45.00,35.00,Casa
+Jogo de copos 6un,100,60.00,45.00,Casa
+Panela de pressão,80,120.00,95.00,Casa
+Travesseiro ortopédico,120,65.00,50.00,Casa
+Edredom queen,90,150.00,120.00,Casa
+Jogo de lençol,130,85.00,65.00,Casa
+Cortina blackout,75,95.00,75.00,Casa
+Vaso decorativo,110,55.00,40.00,Casa
